@@ -1,0 +1,18 @@
+body{
+    background-image: url(../images/images\ \(2\).jpg),linear-gradient(steelblue,purple,white)
+    
+
+}
+section {
+    text-align: right;
+    font-size: larger;
+    margin: 0;
+}
+section,p{
+    display: inline-block;
+    margin: 7px;
+    background-color: blue;
+    padding: 2px;
+}
+
+
